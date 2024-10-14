@@ -1,0 +1,6 @@
+/.vscode
+/Makefile
+/main.o
+/sorts
+/sorts_debug
+/sorts_debug.dSYM
